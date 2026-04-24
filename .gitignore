@@ -20,7 +20,7 @@ reports/figures/
 .DS_Store
 Thumbs.db
 
-# datasets
-data/raw/
-data/processed/
-outputs/
+# ignore only large csv files
+data/raw/*.csv
+data/processed/*.csv
+outputs/*.csv
