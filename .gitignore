@@ -19,3 +19,8 @@ reports/figures/
 # OS files
 .DS_Store
 Thumbs.db
+
+# datasets
+data/raw/
+data/processed/
+outputs/
